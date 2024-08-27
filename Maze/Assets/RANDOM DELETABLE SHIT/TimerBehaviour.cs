@@ -29,6 +29,7 @@ public class TimerBehaviour : MonoBehaviour
         DisplayTime(timeValue);
     }
 
+
     void DisplayTime(float TimeToDisplay){
         if(TimeToDisplay < 0){
             TimeToDisplay = 0;
