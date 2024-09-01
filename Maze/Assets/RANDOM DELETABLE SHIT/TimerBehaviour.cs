@@ -30,6 +30,7 @@ public class TimerBehaviour : MonoBehaviour
         DisplayTime(timeValue);
         
     }
+    
 
 
     void DisplayTime(float TimeToDisplay){
