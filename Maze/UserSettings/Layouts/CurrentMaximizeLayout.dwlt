@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 255
+  controlID: 99
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 206
+  controlID: 51
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -174,7 +174,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 197
+  controlID: 42
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -635,9 +635,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -5.638437, y: 3.3932269, z: -92.60472}
+    m_Target: {x: -9.66481, y: 2.6257544, z: -93.06671}
     speed: 2
-    m_Value: {x: -5.638437, y: 3.3932269, z: -92.60472}
+    m_Value: {x: -9.66481, y: 2.6257544, z: -93.06671}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -683,20 +683,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.07789667, y: 0.38350597, z: -0.032891486, w: -0.92042285}
+    m_Target: {x: 0.29476672, y: -0.5087033, z: 0.19034602, w: 0.78727525}
     speed: 2
-    m_Value: {x: -0.07784201, y: 0.38323689, z: -0.032868408, w: -0.91977704}
+    m_Value: {x: 0.29451644, y: -0.50827134, z: 0.19018438, w: 0.7866068}
   m_Size:
-    m_Target: 3.1628914
+    m_Target: 12.124355
     speed: 2
-    m_Value: 3.1628914
+    m_Value: 12.124355
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.0005
-    m_SpeedNormalized: 0.49999997
+    m_Speed: 1.1204399
+    m_SpeedNormalized: 0.55999994
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -786,7 +786,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/RANDOM DELETABLE SHIT/Wood Material
+    - Assets/Documentation
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -794,16 +794,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/RANDOM DELETABLE SHIT/Wood Material
+  - Assets/Documentation
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\}Game-Dev\OctoDevs\OctoDevs-ProjetoPratico-\Maze
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 8c530000
-    m_LastClickedID: 21388
-    m_ExpandedIDs: 00000000245300005453000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 60}
+    m_SelectedIDs: 50530000
+    m_LastClickedID: 21328
+    m_ExpandedIDs: 000000002253000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -831,7 +831,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002453000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000022530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -856,8 +856,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 28520000
-    m_LastClickedInstanceID: 21032
+    m_SelectedInstanceIDs: 10520000
+    m_LastClickedInstanceID: 21008
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300009c4a0000c44a00007a4b0000
     m_RenameOverlay:
@@ -940,8 +940,8 @@ MonoBehaviour:
     y: 0
     width: 460
     height: 770.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -987,7 +987,7 @@ MonoBehaviour:
     m_CachedPref: 151
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: 21032
+  m_LastInspectedObjectInstanceID: 21008
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
