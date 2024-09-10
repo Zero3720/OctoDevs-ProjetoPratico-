@@ -35,10 +35,10 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.probuilder": "5.2.2",
+        "com.unity.probuilder": "5.2.3",
         "com.unity.polybrush": "1.1.8",
         "com.unity.formats.fbx": "4.2.1",
-        "com.unity.terrain-tools": "5.0.1"
+        "com.unity.terrain-tools": "5.0.5"
       }
     },
     "com.unity.formats.fbx": {
@@ -104,7 +104,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.terrain-tools": {
-      "version": "5.0.1",
+      "version": "5.0.5",
       "depth": 1,
       "source": "registry",
       "dependencies": {
