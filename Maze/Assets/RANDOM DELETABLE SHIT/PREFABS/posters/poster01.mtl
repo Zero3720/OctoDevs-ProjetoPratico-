@@ -1,0 +1,32 @@
+# Blender 4.2.0 MTL File: 'Poster.blend'
+# www.blender.org
+
+newmtl FrontColor.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Wood_Cherry_Original.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd poster01/Wood_Cherry_Original.jpg
+
+newmtl _.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd poster01/_.jpg
