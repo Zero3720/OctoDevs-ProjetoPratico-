@@ -1,242 +1,119 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1726506531092619, "dur":13694, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1726506531106325, "dur":848, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1726506531107229, "dur":355, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1726506531107862, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
-,{ "pid":12345, "tid":0, "ts":1726506531108265, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1726506531108647, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1726506531108850, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1726506531109103, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1726506531107604, "dur":3087, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1726506531110692, "dur":3207440, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1726506534318133, "dur":286, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1726506534318552, "dur":1312, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1726506531108136, "dur":2577, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531110717, "dur":322, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531111039, "dur":4487, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531115568, "dur":1621, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531117197, "dur":420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":1, "ts":1726506531117618, "dur":374, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531118009, "dur":1001, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531119020, "dur":883, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531119909, "dur":1356, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531121275, "dur":917, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531122201, "dur":1083, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531123295, "dur":1468, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531124777, "dur":821, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531125608, "dur":1821, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531127438, "dur":550, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531127996, "dur":2529, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531130538, "dur":1174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531131720, "dur":1850, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531133580, "dur":1977, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531135566, "dur":3857, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531139476, "dur":3939, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531143424, "dur":3253, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1726506531146694, "dur":6997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":1, "ts":1726506531153741, "dur":3164395, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531108376, "dur":2362, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531110742, "dur":322, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531111065, "dur":4458, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531115524, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":2, "ts":1726506531115768, "dur":2155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531117938, "dur":2438, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531120385, "dur":1354, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531121747, "dur":1789, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531123544, "dur":1894, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531125450, "dur":1228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531126688, "dur":1294, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531127992, "dur":1536, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531129537, "dur":2202, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531131752, "dur":5039, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531136801, "dur":3672, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531140486, "dur":3721, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1726506531144223, "dur":18807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/resources.assets" }}
-,{ "pid":12345, "tid":2, "ts":1726506531163056, "dur":3155079, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531108575, "dur":2204, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531110780, "dur":4731, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531115515, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":3, "ts":1726506531115572, "dur":1618, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531117201, "dur":594, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\UNITY HUB\\[UNITY BUILD\\2022.3.45f1\\unity\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1726506531117200, "dur":596, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1726506531117796, "dur":191, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531118001, "dur":7038, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531125048, "dur":1625, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531126684, "dur":1990, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531128686, "dur":2972, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531131671, "dur":1795, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531133485, "dur":1421, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531134917, "dur":4314, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531139241, "dur":3907, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531143157, "dur":3249, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1726506531146421, "dur":8920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":3, "ts":1726506531155360, "dur":3162811, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531108610, "dur":2180, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531110791, "dur":4717, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531115521, "dur":363, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531115894, "dur":398, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531116301, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":4, "ts":1726506531116357, "dur":409, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531116780, "dur":548, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\UNITY HUB\\[UNITY BUILD\\2022.3.45f1\\unity\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
-,{ "pid":12345, "tid":4, "ts":1726506531116770, "dur":558, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":4, "ts":1726506531117329, "dur":642, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531117979, "dur":3740, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531121732, "dur":766, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531122510, "dur":1624, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531124145, "dur":1964, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531126119, "dur":1300, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531127429, "dur":548, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531127985, "dur":1547, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531129542, "dur":2931, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531132488, "dur":3721, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531136218, "dur":3734, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531139961, "dur":3986, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1726506531143964, "dur":17898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":4, "ts":1726506531161885, "dur":3156269, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531108637, "dur":2163, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531110801, "dur":4709, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531115515, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":5, "ts":1726506531115576, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531115791, "dur":958, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531116778, "dur":1028, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531117850, "dur":364, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531118226, "dur":1236, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531119470, "dur":439, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531119917, "dur":1094, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531121024, "dur":1431, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531122464, "dur":1114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531123588, "dur":2276, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531125874, "dur":1801, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531127685, "dur":730, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531128426, "dur":1569, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531130009, "dur":1712, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531131731, "dur":2342, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531134095, "dur":3737, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531137840, "dur":4180, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1726506531142110, "dur":31540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/sharedassets0.resource" }}
-,{ "pid":12345, "tid":5, "ts":1726506531173668, "dur":3144461, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531108304, "dur":2418, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531110726, "dur":299, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531111025, "dur":4495, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531115539, "dur":201, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\UNITY HUB\\[UNITY BUILD\\2022.3.45f1\\unity\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
-,{ "pid":12345, "tid":6, "ts":1726506531115521, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":6, "ts":1726506531115742, "dur":2166, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531117918, "dur":8734, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531126662, "dur":2806, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531129481, "dur":2240, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531131735, "dur":4013, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531135758, "dur":3936, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531139702, "dur":3979, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531152000, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1726506531143721, "dur":8857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":6, "ts":1726506531152640, "dur":3165490, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1726506531108450, "dur":2308, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1726506531110761, "dur":305, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1726506531111066, "dur":4462, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1726506531115574, "dur":2570, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1726506531118162, "dur":13553, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1726506531131724, "dur":2197, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1726506531133928, "dur":3385, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1726506531137323, "dur":3998, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1726506531141330, "dur":4054, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1726506531145404, "dur":8506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/level0" }}
-,{ "pid":12345, "tid":7, "ts":1726506531153968, "dur":3164159, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531108333, "dur":2398, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531110734, "dur":270, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531111004, "dur":4521, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531115535, "dur":203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\UNITY HUB\\[UNITY BUILD\\2022.3.45f1\\unity\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
-,{ "pid":12345, "tid":8, "ts":1726506531115525, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":8, "ts":1726506531115741, "dur":1880, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531117657, "dur":356, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531118020, "dur":9934, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531127962, "dur":2328, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531130305, "dur":1413, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531131728, "dur":2147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531133889, "dur":3162, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531137062, "dur":3993, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531141065, "dur":3696, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1726506531144784, "dur":10396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/level0.resS" }}
-,{ "pid":12345, "tid":8, "ts":1726506531155221, "dur":3162912, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531108405, "dur":2341, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531110748, "dur":332, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531111080, "dur":4450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531115542, "dur":195, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\UNITY HUB\\[UNITY BUILD\\2022.3.45f1\\unity\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
-,{ "pid":12345, "tid":9, "ts":1726506531115531, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":9, "ts":1726506531115739, "dur":2005, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531117772, "dur":332, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531118114, "dur":1772, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531119896, "dur":495, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531120397, "dur":1336, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531121741, "dur":757, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531122506, "dur":2507, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531125025, "dur":1647, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531126681, "dur":2526, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531129221, "dur":1790, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531131022, "dur":1917, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531132949, "dur":5153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531138111, "dur":4516, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1726506531142663, "dur":67064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":9, "ts":1726506531209746, "dur":3108415, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531108436, "dur":2316, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531110755, "dur":343, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531111099, "dur":4416, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531115552, "dur":422, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531116020, "dur":1773, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531117825, "dur":289, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531118119, "dur":5441, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531123568, "dur":2803, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531126380, "dur":1548, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531127937, "dur":1584, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531129529, "dur":2210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531131748, "dur":5827, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531137585, "dur":3998, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531141595, "dur":4034, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1726506531145648, "dur":13868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/globalgamemanagers.assets.resS" }}
-,{ "pid":12345, "tid":10, "ts":1726506531159560, "dur":3158566, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531108495, "dur":2273, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531110772, "dur":254, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531111026, "dur":4491, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531115558, "dur":1665, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531117228, "dur":681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":11, "ts":1726506531117910, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531118000, "dur":4481, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531122489, "dur":1089, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531123584, "dur":3041, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531126635, "dur":2269, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531128915, "dur":2079, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531131010, "dur":1204, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531132232, "dur":2199, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531134442, "dur":4122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531138574, "dur":4313, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531162455, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1726506531142902, "dur":19645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":11, "ts":1726506531162699, "dur":3155447, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1726506531108101, "dur":2603, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1726506531110708, "dur":4795, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1726506531115537, "dur":480, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1726506531116025, "dur":173, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1726506531116207, "dur":178, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":12, "ts":1726506531116582, "dur":203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531116786, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\RMC.Core.ReadMe.Runtime.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531116911, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531117024, "dur":141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531117167, "dur":395, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531117563, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TerrainTools.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531117740, "dur":308, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531118049, "dur":153, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531118203, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Formats.Fbx.Runtime.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531118323, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\RMC.MyProject.Runtime.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531118432, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Polybrush.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531118581, "dur":161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531118743, "dur":137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Autodesk.Fbx.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531118881, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531119030, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531119151, "dur":312, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531119464, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\FbxBuildTestAssets.dll" }}
-,{ "pid":12345, "tid":12, "ts":1726506531116024, "dur":3649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1726506531120974, "dur":3195013, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1726506534317016, "dur":220, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1726506534317014, "dur":223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1726506534317273, "dur":791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/boot.config" }}
-,{ "pid":12345, "tid":0, "ts":1726506534321769, "dur":828, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid":12345, "tid":0, "ts":1726515442674056, "dur":15964, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726515442690033, "dur":933, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726515442691071, "dur":73, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1726515442691146, "dur":772, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726515442694552, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1726515442691953, "dur":3006, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726515442694961, "dur":6844, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726515442701806, "dur":341, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726515442702269, "dur":1467, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1726515442692094, "dur":2878, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726515442694975, "dur":4874, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726515442699910, "dur":298, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1726515442700352, "dur":628, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726515442700981, "dur":261, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\RMC.Core.ReadMe.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726515442701247, "dur":346, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726515442699908, "dur":1804, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1726515442692145, "dur":2843, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726515442694991, "dur":313, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726515442695304, "dur":4559, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726515442699893, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726515442700130, "dur":72, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726515442700204, "dur":611, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Formats.Fbx.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726515442700203, "dur":613, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.Formats.Fbx.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726515442700836, "dur":273, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726515442700835, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726515442701126, "dur":59, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726515442701347, "dur":442, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726515442692137, "dur":2845, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726515442694985, "dur":328, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726515442695314, "dur":4555, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726515442699898, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726515442700131, "dur":82, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726515442700216, "dur":663, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726515442700214, "dur":666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726515442700998, "dur":95, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726515442701120, "dur":60, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726515442701337, "dur":455, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726515442692188, "dur":2808, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726515442695000, "dur":311, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726515442695312, "dur":4543, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726515442699910, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1726515442700163, "dur":547, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Autodesk.Fbx.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726515442700162, "dur":549, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Autodesk.Fbx.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726515442700735, "dur":585, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726515442700733, "dur":587, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726515442701344, "dur":453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726515442692228, "dur":2778, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726515442695010, "dur":295, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726515442695306, "dur":4558, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726515442699880, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\UNITY HUB\\[UNITY BUILD\\2022.3.45f1\\unity\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1726515442699865, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1726515442700170, "dur":650, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Polybrush.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726515442700169, "dur":652, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.Polybrush.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726515442700842, "dur":301, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\RMC.Core.ReadMe.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726515442700841, "dur":303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/RMC.Core.ReadMe.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726515442701348, "dur":439, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726515442692263, "dur":2752, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726515442695019, "dur":318, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726515442695338, "dur":4538, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726515442699878, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1726515442700033, "dur":146, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1726515442700189, "dur":739, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\RMC.MyProject.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726515442700180, "dur":749, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/RMC.MyProject.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726515442701335, "dur":460, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726515442692298, "dur":2728, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726515442695030, "dur":327, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726515442695357, "dur":4504, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726515442699888, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726515442700168, "dur":752, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726515442700167, "dur":754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726515442701342, "dur":449, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726515442692445, "dur":2603, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726515442695052, "dur":284, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726515442695336, "dur":4536, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726515442699883, "dur":117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\UNITY HUB\\[UNITY BUILD\\2022.3.45f1\\unity\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1726515442699873, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1726515442700156, "dur":642, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726515442700155, "dur":644, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726515442700823, "dur":271, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726515442700822, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726515442701352, "dur":433, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726515442692371, "dur":2665, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726515442695040, "dur":304, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726515442695344, "dur":4529, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726515442699876, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1726515442700132, "dur":89, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726515442700224, "dur":814, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726515442700223, "dur":816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726515442701121, "dur":135, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726515442701351, "dur":439, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726515442692583, "dur":2487, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726515442695071, "dur":4787, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726515442699876, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\UNITY HUB\\[UNITY BUILD\\2022.3.45f1\\unity\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1726515442699862, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1726515442699982, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726515442700161, "dur":691, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726515442700160, "dur":698, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726515442700884, "dur":408, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726515442700883, "dur":410, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726515442701356, "dur":461, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726515442692483, "dur":2575, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726515442695059, "dur":4797, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726515442699904, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726515442700148, "dur":361, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\FbxBuildTestAssets.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726515442700147, "dur":362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/FbxBuildTestAssets.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726515442700530, "dur":396, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TerrainTools.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726515442700529, "dur":398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.TerrainTools.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726515442701206, "dur":91, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726515442701340, "dur":454, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726515442692610, "dur":2470, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726515442695081, "dur":4797, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726515442699889, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\UNITY HUB\\[UNITY BUILD\\2022.3.45f1\\unity\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":12, "ts":1726515442699879, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1726515442700155, "dur":1202, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\}Game-Dev\\OctoDevs\\OctoDevs-ProjetoPratico-\\Maze\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726515442700154, "dur":1204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/}Game-Dev/OctoDevs/Build1/Le Cine_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726515442701371, "dur":435, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726515442706138, "dur":594, "ph":"X", "name": "ProfilerWriteOutput" }
 ,
