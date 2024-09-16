@@ -114,31 +114,31 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2006}
     - Class: 114
-      Script: {instanceID: 2360}
+      Script: {instanceID: 2358}
     - Class: 114
-      Script: {instanceID: 2912}
+      Script: {instanceID: 2910}
     - Class: 114
-      Script: {instanceID: 2964}
+      Script: {instanceID: 2962}
+    - Class: 114
+      Script: {instanceID: 3064}
     - Class: 114
       Script: {instanceID: 3108}
     - Class: 114
       Script: {instanceID: 3354}
     - Class: 114
-      Script: {instanceID: 3562}
+      Script: {instanceID: 3512}
     - Class: 114
-      Script: {instanceID: 3582}
+      Script: {instanceID: 3564}
     - Class: 114
-      Script: {instanceID: 4444}
+      Script: {instanceID: 3584}
     - Class: 114
-      Script: {instanceID: 4628}
+      Script: {instanceID: 4446}
     - Class: 114
-      Script: {instanceID: 4752}
+      Script: {instanceID: 4630}
     - Class: 114
-      Script: {instanceID: 5074}
+      Script: {instanceID: 4754}
     - Class: 114
-      Script: {instanceID: 22374}
-    - Class: 114
-      Script: {instanceID: 27454}
+      Script: {instanceID: 5076}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -438,6 +438,12 @@ ScriptsOnlyBuild:
     className: TMP_TextSelector_A
   - hash:
       serializedVersion: 2
+      Hash: 34d3925268a7fec939cd043366a30603
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: FadeCamera
+  - hash:
+      serializedVersion: 2
       Hash: fddc1d0815370c41972670aaf78cbc9a
     assemblyName: Unity.ProBuilder
     namespaceName: UnityEngine.ProBuilder
@@ -556,6 +562,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp
     namespaceName: TMPro.Examples
     className: Benchmark04
+  - hash:
+      serializedVersion: 2
+      Hash: ed6ce22be754db46bdbbe27e49e68e64
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: EndGame
   - hash:
       serializedVersion: 2
       Hash: 96b7b1d9fce044b35da1ca3c46e5d74c
@@ -970,18 +982,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.AI.Navigation
     namespaceName: Unity.AI.Navigation
     className: NavMeshLink
-  - hash:
-      serializedVersion: 2
-      Hash: ed6ce22be754db46bdbbe27e49e68e64
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: EndGame
-  - hash:
-      serializedVersion: 2
-      Hash: 34d3925268a7fec939cd043366a30603
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: FadeCamera
   platform: 19
   scenePathNames:
   - Assets/Scenes/Maze Game Scene.unity
